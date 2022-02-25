@@ -1,0 +1,7 @@
+[
+    {"id": 1, "offerId": 1, "name": "Billy", "car":"toyota", "seatsLeft": 4, "pickUp": "The Colony", "destination":"The Office"},
+    {"id": 2, "offerId": 2, "name": "Bob", "car":"Ford-F150", "seatsLeft": 4, "pickUp": "Richardson", "destination":"The Office"},
+    {"id": 3, "offerId": 3, "name": "Billy Bob", "car":"Tesla", "seatsLeft": 4, "pickUp":"The Office", "destination":"The Colony"},
+    {"id": 4, "offerId": 4, "name": "Bob Billy", "car":"Honda", "seatsLeft": 6, "pickUp":"The Office", "destination":"Richardson"}
+    
+]
